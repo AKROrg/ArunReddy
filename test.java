@@ -1,1 +1,0 @@
-used gor git reset
